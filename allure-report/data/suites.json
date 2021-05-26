@@ -1,0 +1,39 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Artigos",
+    "children" : [ {
+      "name" : "Criar um novo artigo",
+      "uid" : "9ea6191f477b65ee",
+      "parentUid" : "2c1ee57f1ad67a979ae9bd97d22c7644",
+      "status" : "passed",
+      "time" : {
+        "start" : 1622037650461,
+        "stop" : 1622037658461,
+        "duration" : 8000
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "2c1ee57f1ad67a979ae9bd97d22c7644"
+  }, {
+    "name" : "Autenticação",
+    "children" : [ {
+      "name" : "Efetuar login com usuário e senha válidos",
+      "uid" : "2114d7262de660c5",
+      "parentUid" : "d5720485c9b7901251ddc0c72586f68b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1622037660597,
+        "stop" : 1622037664280,
+        "duration" : 3683
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "d5720485c9b7901251ddc0c72586f68b"
+  } ]
+}
